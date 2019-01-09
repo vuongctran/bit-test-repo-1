@@ -1,0 +1,10 @@
+{
+    "env": {},
+    "dependencies": {
+        "tcvuong.test/components/component1": "1.0.1",
+        "tcvuong.test/components/component2": "1.0.1",
+        "tcvuong.test/components/spinner": "1.0.4"
+    },
+    "componentsDefaultDirectory": "components/{namespace}/{name}",
+    "packageManager": "npm"
+}

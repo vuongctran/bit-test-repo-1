@@ -1,0 +1,28 @@
+{
+  "name": "bit-test-app-2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.3",
+    "@bit/tcvuong.test.components.component1": "file:./components/components/component1",
+    "@bit/tcvuong.test.components.component2": "file:./components/components/component2",
+    "@bit/tcvuong.test.components.spinner": "file:./components/components/spinner"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
